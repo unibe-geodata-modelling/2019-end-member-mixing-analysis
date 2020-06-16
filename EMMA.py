@@ -1,12 +1,12 @@
-def emma(Ax, Ay, Bx, By, Cx, Cy, Px, Py):
-    ##################################################
-    # import
-    ##################################################
-    import numpy as np
-    import math
-    import sympy as sy
-    import matplotlib.pyplot as plt
+##################################################
+# import
+##################################################
+import numpy as np
+import math
+import sympy as sy
+import matplotlib.pyplot as plt
 
+def emma(Ax, Ay, Bx, By, Cx, Cy, Px, Py):
     ######################################################
     ## define triangle
     ######################################################
